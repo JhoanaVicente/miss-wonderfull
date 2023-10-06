@@ -32,3 +32,8 @@ img {
 button {
     margin: auto;
 }
+
+img {
+    width: 50%;
+    height: 10%;
+}
